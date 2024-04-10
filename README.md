@@ -9,12 +9,12 @@
   <img src="https://img.shields.io/badge/Data Analysis-pink"/>
   <img src="https://img.shields.io/badge/Statistics-pink"/>
   <img src="https://img.shields.io/badge/Economics-pink"/>
+  
   </div>
-
-
+  
 Current projects on my repository: 
-1. Web Scraping > Indeed Scraper > 
-2. Data Analysis > Entregas Diplomatura de Datos
+1. Web Scraping > Indeed Scraper > https://github.com/eugeniaprimo/indeed_scraper 
+3. Data Analysis > Entregas Diplomatura de Datos > 
 
 ## Work Experience
 #### Data Predictive Economic Analyst | TEAM International 
